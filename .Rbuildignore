@@ -2,3 +2,5 @@
 runtime.txt
 test.Rproj
 test.R
+^.*\.Rproj$
+^\.Rproj\.user$
