@@ -1,0 +1,12 @@
+Package: test
+Title: This is a package
+Version: 0.0.0.9000
+Authors@R: person("Karthik", "Ram", email = "karthik.ram@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.4)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+	 Ecdat,
+	 drake
